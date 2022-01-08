@@ -1,4 +1,7 @@
 # Real-3D-Virtual-Environment
+
+# Download
+
 There are seven scene in our dataset. They can be downloaded at:
 
 Home_1: https://drive.google.com/file/d/1-P4l5Sicu_inXMP_w8xoJnZL956Ms50W/view?usp=sharing
@@ -18,3 +21,7 @@ Home_7: https://drive.google.com/file/d/13uZ-7NPlbu-meB_gmwDfJa40u4FGtJ2C/view?u
 Here are some demo code for loading data and annotation:
 
 demo: https://drive.google.com/file/d/1-aBXN7to9mcrUMrkLMjq6Mm06LeVP3s5/view?usp=sharing
+
+# license
+
+This project is released under the [MIT-license](https://github.com/pioneer-innovation/Real-3D-Virtual-Environment/blob/main/license)
