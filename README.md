@@ -17,4 +17,4 @@ Home_7: https://drive.google.com/file/d/13uZ-7NPlbu-meB_gmwDfJa40u4FGtJ2C/view?u
 
 Here are some demo code for loading data and annotation:
 
-https://drive.google.com/file/d/1-aBXN7to9mcrUMrkLMjq6Mm06LeVP3s5/view?usp=sharing
+demo: https://drive.google.com/file/d/1-aBXN7to9mcrUMrkLMjq6Mm06LeVP3s5/view?usp=sharing
