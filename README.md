@@ -4,11 +4,11 @@
 
 R3AD is an active dataset that uses a dense sampling scheme, as shown in the following figure:
 
-![](https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/dense_sample.png)
+<img src="https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/dense_sample.png" width="600" height="300" alt="Dense sampling scheme"/><br/>
 
 Here are some examples data:
 
-![](https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/example.png)
+<img src="https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/example.png" width="400" height="400" alt="Example data"/><br/>
 
 ## Download
 
@@ -38,4 +38,4 @@ This project is released under the [MIT-license](https://github.com/pioneer-inno
 
 ## Citation
 
-under review.
+Under review.
