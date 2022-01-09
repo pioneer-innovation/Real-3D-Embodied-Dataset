@@ -1,7 +1,8 @@
-# Real-3D-Virtual-Environment
+# Real-3D-Active-Dataset
 
 # Introduction
 
+R3AD is an active dataset that uses a dense sampling scheme, as shown in the following figure:
 
 # Download
 
