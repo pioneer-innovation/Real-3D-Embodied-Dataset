@@ -1,14 +1,12 @@
 # Real-3D-Active-Dataset
 
-# Introduction
+## Introduction
 
 R3AD is an active dataset that uses a dense sampling scheme, as shown in the following figure:
 
-![?](https://github.com/bigbeats/Git-Github-notes-for-study/blob/master/images-folder/TeamLogo.png) 
+![](https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/1.PNG)
 
-![image](https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/1.PNG)
-
-# Download
+## Download
 
 There are seven scene in our dataset. They can be downloaded at:
 
@@ -30,6 +28,6 @@ Here are some demo code for loading data and annotation:
 
 demo: https://drive.google.com/file/d/1-aBXN7to9mcrUMrkLMjq6Mm06LeVP3s5/view?usp=sharing
 
-# license
+## license
 
 This project is released under the [MIT-license](https://github.com/pioneer-innovation/Real-3D-Virtual-Environment/blob/main/license)
