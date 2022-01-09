@@ -6,6 +6,10 @@ R3AD is an active dataset that uses a dense sampling scheme, as shown in the fol
 
 ![](https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/dense_sample.png)
 
+Here are some examples data:
+
+![](https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/example.png)
+
 ## Download
 
 There are seven scene in our dataset. They can be downloaded at:
