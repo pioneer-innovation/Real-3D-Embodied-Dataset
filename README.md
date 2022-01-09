@@ -6,7 +6,7 @@ R3AD is an active dataset that uses a dense sampling scheme, as shown in the fol
 
 ![?](https://github.com/bigbeats/Git-Github-notes-for-study/blob/master/images-folder/TeamLogo.png) 
 
-![image](private_img/dense_sample.png)
+![image](https://github.com/pioneer-innovation/Real-3D-Active-Dataset/blob/main/private_img/1.PNG)
 
 # Download
 
