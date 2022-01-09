@@ -28,6 +28,10 @@ Here are some demo code for loading data and annotation:
 
 demo: https://drive.google.com/file/d/1-aBXN7to9mcrUMrkLMjq6Mm06LeVP3s5/view?usp=sharing
 
-## license
+## License
 
 This project is released under the [MIT-license](https://github.com/pioneer-innovation/Real-3D-Virtual-Environment/blob/main/license)
+
+## Citation
+
+under review.
