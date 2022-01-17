@@ -38,8 +38,9 @@ Because we modified many APIs in mmdetection3d and tianshou, there may be some b
 
 ### Requirement
 
-mmdetection3d
-tianshou
+mmdetection3d: https://github.com/open-mmlab/mmdetection3d
+
+tianshou: https://github.com/thu-ml/tianshou
 
 ## License
 
