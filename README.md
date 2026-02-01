@@ -48,4 +48,13 @@ This project is released under the [MIT-license](https://github.com/pioneer-inno
 
 ## Citation
 
-Under review.
+@ARTICLE{9729641,
+  author={Zhao, Qianfan and Zhang, Lu and Wu, Lingxi and Qiao, Hong and Liu, Zhiyong},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={A Real 3D Embodied Dataset for Robotic Active Visual Learning}, 
+  year={2022},
+  volume={7},
+  number={3},
+  pages={6646-6652},
+  keywords={Three-dimensional displays;Robots;Visualization;Point cloud compression;Robot kinematics;Artificial intelligence;Detectors;Data sets for robotic vision;deep learning for visual perception;reinforcement learning},
+  doi={10.1109/LRA.2022.3157028}}
